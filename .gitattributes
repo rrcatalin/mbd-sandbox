@@ -1,0 +1,5 @@
+*.slx filter=lfs diff=lfs merge=lfs -text
+*.slxp filter=lfs diff=lfs merge=lfs -text
+*.sldd filter=lfs diff=lfs merge=lfs -text
+*.mdl filter=lfs diff=lfs merge=lfs -text
+*.slxcfg filter=lfs diff=lfs merge=lfs -text
